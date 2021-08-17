@@ -25,9 +25,9 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
-  workDir = "mydir"
+  userName = "CoinHawk"
+  pcName = "DevBox"
+  workDir = "projectDir"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -45,8 +45,8 @@ ignoreErrors = ["error-remote-getjson"]
   activityDelay = 5
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
+  Welcome, we are here to develop sites!
+  Click the links below to find out more..!
 
   """
 
@@ -59,8 +59,8 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
+    ["C/C++", "https://www.onlinegdb.com/"],
+    ["Python", "https://www.python.org/"],
     ["Go", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
     ["Docker", "/post/some-activity.md"],
